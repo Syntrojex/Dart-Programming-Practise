@@ -5,3 +5,4 @@ baiscs done
 vontrol flow done 
 \today fucntsions done and then lists
 today or may be tomorrow oops start
+tuesday error handling + null safety
