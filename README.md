@@ -5,5 +5,5 @@ basics done
 control flow done 
 functions done
 today or may be tomorrow oops start
-tuesday error handling + null safety
-asynchronous programming on wednesday
+error handling + null safety
+asynchronous programming
