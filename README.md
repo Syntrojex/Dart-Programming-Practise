@@ -3,7 +3,7 @@ A structured collection of Dart programming exercises covering OOP, collections,
 
 baiscs done
 vontrol flow done 
-\today fucntsions done and then lists
+functions done
 today or may be tomorrow oops start
 tuesday error handling + null safety
 asynchronous programming on wednesday
