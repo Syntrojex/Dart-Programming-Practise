@@ -11,5 +11,5 @@ Function sum() {
 
 void main() {
   Function x = sum();
-  print(x()); // yahan call karna zaroori hai result dekhne ke liye
+  print(x());
 }
